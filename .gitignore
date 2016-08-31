@@ -7,4 +7,5 @@
 *.project
 *.DS_Store
 .idea/
+*.NettyTest.iml
 
